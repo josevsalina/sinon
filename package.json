@@ -1,0 +1,19 @@
+{
+  "name": "sinon",
+  "version": "1.0.0",
+  "description": "some test cases with sinon",
+  "main": "test1.js",
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js'"
+  },
+  "keywords": [
+    "sinon"
+  ],
+  "author": "Jose Salina",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^9.1.3"
+  }
+}
