@@ -104,3 +104,7 @@ describe('AuthController', () => {
     });
   });
 });
+
+// Spys for watching methods
+// Stubs for replacing objects
+// Mocs for easier expectations
